@@ -150,3 +150,70 @@ p{
 padding-top: 2%;
 padding-bottom: 2%;
 }
+.lower-img{
+    width: 60%;
+    padding-top: 2%;
+    padding-left: 20%; 
+    
+    position: relative;
+}
+.lower-img img{
+    width: 100%;
+     
+    
+   
+   
+}
+.lower-img-text{
+    position:absolute;
+    top: 35%;
+    left: 30%;
+    color: white;
+    
+}
+.lower-img-anchor{
+    position:absolute;
+    top: 40%;
+    left: 80%;
+    
+    text-decoration: none;
+    text-align: center;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding:20px 40px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    
+}
+.lower-img-anchor:hover{
+    color: black;
+    font-weight: bold;
+}
+#inq-text{
+    font-size:60px ;
+    font-family: 'Poppins', sans-serif;
+}
+
+.link-img{
+  padding-top: 200px;
+  
+  text-align: center;
+}
+#h3-font{
+    color: gray;
+}
+
+
+.link-img img{
+    width: 5%;
+}
+#email-font{
+    font-size: 50px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color:rgb(52, 52, 68);
+}
+.img-pad{
+    padding-left: 20px;
+}
